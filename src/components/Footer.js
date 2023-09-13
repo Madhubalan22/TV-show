@@ -9,7 +9,7 @@ const Footer = () => {
       <Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="/">
-          &copy; Kaviraj 2022
+          &copy; Madhubalan 2023
           </Navbar.Brand>
         </Container>
       </Navbar>
